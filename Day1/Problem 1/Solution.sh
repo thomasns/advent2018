@@ -1,0 +1,1 @@
+total=0; for i in $(<input); do ((total +=i)); done; echo $total
